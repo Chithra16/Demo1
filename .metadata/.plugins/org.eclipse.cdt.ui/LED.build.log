@@ -1,0 +1,12 @@
+
+**** Build of configuration Debug for project LED ****
+
+"C:\\ti\\ccs1120\\ccs\\utils\\bin\\gmake" -k -j 4 source/HL_sys_intvecs.obj -O 
+ 
+Building file: "../source/HL_sys_intvecs.asm"
+Invoking: Arm Compiler
+"C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/bin/armcl" -mv7R5 --code_state=32 --float_support=VFPv3D16 --include_path="D:/Evaluation_Board/LED" --include_path="D:/Evaluation_Board/LED/include" --include_path="C:/ti/ccs1120/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --enum_type=packed --abi=eabi --preproc_with_compile --preproc_dependency="source/HL_sys_intvecs.d_raw" --obj_directory="source"  "../source/HL_sys_intvecs.asm"
+Finished building: "../source/HL_sys_intvecs.asm"
+ 
+
+**** Build Finished ****
